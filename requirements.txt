@@ -1,0 +1,20 @@
+# Utilities
+numpy
+pandas
+
+# Face Recognition
+scikit-learn
+dlib-bin # it is ued to extract the face embedding from the image like green square we see in the video
+
+git+https://github.com/ageitgey/face_recognition_models # here we see how to download the pre-trained model from GitHub we write ("git+and repository link")
+# It help in finding face vectors in the image
+setuptools<70.0.0 # Basically we used it because we are not installing python library we installing github repository thats why we are using it
+
+## Data Base
+supabase # Basically provide database in free at least 1 or 2 gb perfomace is good
+bcrypt # Using hashing to encript the password
+
+segno # used for QR generation
+pillow # image preprocessing
+
+streamlit # for web app development
