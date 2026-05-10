@@ -48,6 +48,10 @@ def style_base_layout():
 
                 
          /* Hide Top Bar of streamlit */
+
+            .stApp {
+                color: black !important;
+            }
                 
             #MainMenu, footer, header {
                 visibility: hidden;
