@@ -1,3 +1,5 @@
+streamlit # for web app development
+
 # Utilities
 numpy
 pandas
@@ -17,7 +19,6 @@ bcrypt # Using hashing to encript the password
 segno # used for QR generation
 pillow # image preprocessing
 
-streamlit # for web app development
 
 librosa # audio file ko edit, load, modify , remove noice
 resemblyzer # embaddings
